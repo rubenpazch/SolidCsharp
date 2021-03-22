@@ -1,0 +1,16 @@
+/home/ruben/SolidCsharp/obj/Debug/net5.0/SolidCsharp.csprojAssemblyReference.cache
+/home/ruben/SolidCsharp/obj/Debug/net5.0/SolidCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruben/SolidCsharp/obj/Debug/net5.0/SolidCsharp.AssemblyInfoInputs.cache
+/home/ruben/SolidCsharp/obj/Debug/net5.0/SolidCsharp.AssemblyInfo.cs
+/home/ruben/SolidCsharp/obj/Debug/net5.0/SolidCsharp.csproj.CoreCompileInputs.cache
+/home/ruben/SolidCsharp/bin/Debug/net5.0/SolidCsharp
+/home/ruben/SolidCsharp/bin/Debug/net5.0/SolidCsharp.deps.json
+/home/ruben/SolidCsharp/bin/Debug/net5.0/SolidCsharp.runtimeconfig.json
+/home/ruben/SolidCsharp/bin/Debug/net5.0/SolidCsharp.runtimeconfig.dev.json
+/home/ruben/SolidCsharp/bin/Debug/net5.0/SolidCsharp.dll
+/home/ruben/SolidCsharp/bin/Debug/net5.0/ref/SolidCsharp.dll
+/home/ruben/SolidCsharp/bin/Debug/net5.0/SolidCsharp.pdb
+/home/ruben/SolidCsharp/obj/Debug/net5.0/SolidCsharp.dll
+/home/ruben/SolidCsharp/obj/Debug/net5.0/ref/SolidCsharp.dll
+/home/ruben/SolidCsharp/obj/Debug/net5.0/SolidCsharp.pdb
+/home/ruben/SolidCsharp/obj/Debug/net5.0/SolidCsharp.genruntimeconfig.cache
